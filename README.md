@@ -1,4 +1,4 @@
-some more commands. (nandi1205!)
+
 updatelog : added new command block boss - Hardmode Dragon!
 
 nandi1205 (boss) :
